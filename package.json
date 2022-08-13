@@ -1,0 +1,14 @@
+{
+    "name": "flsbot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "NEES",
+    "license": "isc",
+    "dependencies": {
+        "discord.js": "^14.2.0"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
