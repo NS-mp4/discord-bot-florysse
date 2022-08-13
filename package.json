@@ -6,7 +6,7 @@
     "author": "NEES",
     "license": "isc",
     "dependencies": {
-        "discord.js": "^14.2.0"
+        "discord.js": "14.2.0"
     },
     "scripts": {
         "start": "node index.js"
