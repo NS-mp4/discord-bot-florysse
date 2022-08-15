@@ -1,14 +1,22 @@
 {
-    "name": "flsbot",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "author": "NEES",
-    "license": "isc",
-    "dependencies": {
-        "discord.js": "14.2.0"
-    },
-    "scripts": {
-        "start": "node index.js"
-    }
+  "name": "florysse-re-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NS-mp4/discord-bot-florysse.git"
+  },
+  "author": "NEES",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NS-mp4/discord-bot-florysse/issues"
+  },
+  "homepage": "https://github.com/NS-mp4/discord-bot-florysse#readme",
+  "dependencies": {
+    "discord.js": "^14.2.0"
+  }
 }
